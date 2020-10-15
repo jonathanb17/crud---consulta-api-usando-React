@@ -1,0 +1,18 @@
+[
+    {
+        "nombre":"Jonathan",
+        "apellido" :"Bustamante",
+        "profecion": "Programador"
+    },
+
+    {
+        "nombre":"Andres",
+        "apellido" :"Bustamante",
+        "profecion": "Medico"
+    },
+    {
+        "nombre":"Abel",
+        "apellido" :"Bustamante",
+        "profecion": "Comunicador Visual"
+    }
+]
